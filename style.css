@@ -1,0 +1,39 @@
+h1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+td{
+    border: 1px solid black;
+}
+.peach{
+    background-color: rgb(223, 115, 22);
+}
+.lightpurple{
+    background-color:  rgb(233, 219, 233);
+}
+.darkpurple{background-color: rgb(231, 111, 231);
+
+}
+.blue{
+    background-color: rgb(154, 215, 255);
+}
+.brown{
+    background-color:rgb(126, 18, 18);
+}
+.skin{
+    background-color: rgb(221, 221, 125);
+}
+.lightgreen{
+    background-color: rgb(109, 223, 16);
+}
+.yellow{
+    background-color: rgb(236, 240, 16);
+}
+.light{
+    
+    background-color: antiquewhite;
+}
+.main{
+    background-color: beigeSss;
+}
